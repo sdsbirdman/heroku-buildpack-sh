@@ -15,4 +15,4 @@ shopt -s dotglob
 cd $BUILD_DIR
 
 chmod +x build.sh
-./build.sh
+./build.sh $BUILD_DIR $CACHE_DIR
