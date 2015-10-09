@@ -21,4 +21,4 @@ echo "CACHE_DIR=$CACHE_DIR"
 
 
 chmod +x build.sh
-./build.sh $BIN_DIR $BUILD_DIR $CACHE_DIR
+./build.sh $BUILD_DIR $CACHE_DIR
