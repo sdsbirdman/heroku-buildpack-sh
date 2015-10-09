@@ -14,5 +14,5 @@ shopt -s dotglob
 
 cd $BUILD_DIR
 
-chmox +x build.sh
+chmod +x build.sh
 ./build.sh
